@@ -27,7 +27,7 @@ In addition, I have a strong background in **AI & data analysis**, which I studi
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/> &nbsp;
-<img src="https://github.com/YOUR-USERNAME/YOUR-REPO/raw/main/assets/odoo.png" alt="Odoo" width="50" height="50"/> &nbsp;
+<img src="https://github.com/Rachida07/Rachida07/blob/main/ood.png" alt="Odoo" width="50" height="50"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>  
 
