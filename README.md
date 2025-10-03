@@ -38,17 +38,18 @@ In addition, I have a strong background in **AI & data analysis**, which I studi
 
 ## 📊 &nbsp;Stats
 
-![Rachida's Github Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=9A4DFF&text_color=a4aacb&icon_color=9A4DFF)
+![Rachida's Github Stats](https://github-readme-stats.vercel.app/api?username=Rachida07&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=9A4DFF&text_color=a4aacb&icon_color=9A4DFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=dark&count_private=true&bg_color=0d1116&title_color=9A4DFF&text_color=a4aacb&icon_color=9A4DFF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rachida07&theme=dark&count_private=true&bg_color=0d1116&title_color=9A4DFF&text_color=a4aacb&icon_color=9A4DFF)
 
 &nbsp;
 
 ## ✨ &nbsp;About me
 
-- 💻 Aspiring **full-stack developer**  
+- 💻 Aspiring **full-stack developer** (currently front-end focused: HTML, CSS, and JavaScript)  
 - 🎓 Master’s in **Computer Science & AI**  
-- 📚 Preparing for **doctoral studies in AI**  
-- 🚀 Freelancing experience in web dev & hospitality  
-- 🌍 Languages: **Arabic, French, English**
+- 🌱 Developing skills in **Odoo**  
+- 🚀 Gaining experience through **small freelancing projects**  
+- 🌍 Languages: **Arabic, French, English**  
+
 
